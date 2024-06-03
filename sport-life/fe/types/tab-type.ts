@@ -1,1 +1,1 @@
-type TabProp = {label: string, href: string};
+export interface TabProp {label: string, href: string};
