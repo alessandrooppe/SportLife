@@ -1,4 +1,4 @@
-// File: /Users/alessandrooppedisano/Documents/projects/sport-life/fe/app/layout.tsx
+// File: /Users/alessandrooppedisano/Documents/projects/SportLife/sport-life/fe/app/layout.tsx
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

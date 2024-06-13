@@ -3,6 +3,7 @@ import { Inter } from "next/font/google";
 import "./globals.css";
 import { RoutingTabs } from "@/components/routing-tabs";
 import { useMemo } from "react";
+import { TabProp } from "@/model/tab-type";
 
 const inter = Inter({ subsets: ["latin"] });
 
