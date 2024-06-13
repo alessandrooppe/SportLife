@@ -1,0 +1,1 @@
+export interface PageText { language: string, title: string, firstDescription: string, secondDescription: string };
